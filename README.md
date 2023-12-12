@@ -1,5 +1,5 @@
 <p align="center">
-<img src = Images/github.png width =40% height 30%=/>
+<img src = Images/github.png width =70% height 30%=/>
 </p>
 
 - 👋 Hi, I’m @AnvithaChaluvadi
