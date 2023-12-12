@@ -1,3 +1,7 @@
+<p align="center">
+<img src = Images/github.png width =40% height 30%=/>
+</p>
+
 - 👋 Hi, I’m @AnvithaChaluvadi
 - 👀 I’m interested in becoming a financial analyst
 - 🌱 I’m currently learning how to become one through the GW FinTech Bootcamp
