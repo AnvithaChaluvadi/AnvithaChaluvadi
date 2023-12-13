@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! I'm excited to share my skills and experiences with you through my repositories! Currently, I am actively pursuing a career as a financial analyst. To further my expertise in the field, I am enrolled in the GW Fintech Bootcamp. It is a comprehensive program that provides me with the necessary skills and knowledge to excel in the financial technology industry. This bootcamp has provided me with hands-on experience in programming languages such as Python and SQL, as well as exposure to various financial tools and technologies.
 
-I am highly motivated and a tenacious individual with a strong passion for numbers and data analysis. I have a degree in Financial Economics from the University of Maryland Baltimore County. I have a solid foundation in financial concepts. I additionally minored in Information Systems. So, my passion for economics and coding are well combined.
+I am highly motivated and a tenacious individual with a strong passion for numbers and data analysis. I have a degree in Financial Economics from the University of Maryland Baltimore County. I have a solid foundation in financial concepts. Additionally, I minored in Information Systems. So, my passion for economics and coding are well combined.
 
 Please feel free to reach out to me if you have any questions or would like to discuss further. I look forward to the opportunity to contribute my expertise to your team.
 
