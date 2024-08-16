@@ -15,7 +15,7 @@ Please feel free to reach out to me if you have any questions or would like to d
     
 <a href="https://www.linkedin.com/in/anvitha-chaluvadi-44b08b239/">
 <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a> ‎ ‎ <a href= "mailto:canvitha@hotmail.com">
-<img alt="Outlook" title="Outlook" height="48" width="48" src="Images/outlook.png"></a>
+<img alt="Outlook" title="Outlook" height="48" width="48" src="Images/outlook.png"></a> ‎ ‎ ‎ ‎<a href="https://www.datacamp.com/portfolio/canvitha"> <img alt="DataCamp" title="DataCamp" height="48" width="48" src="Images/datacamp.png"></a>
     
 
 
